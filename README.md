@@ -1,10 +1,10 @@
-# 快陪练技术博客
-用于快陪练技术团队学习交流，通过培训提升团队研发效率。
+# syc技术博客
+个人成长和学习技术博客。
 
 ## 如何开始
 ```
 // 获取代码
-git clone https://github.com/kuaipeilian/blog.git
+git clone https://github.com/syc666/blog.git
 
 // 进入目录并安装依赖
 cd blog && npm install
@@ -20,4 +20,4 @@ npm start
 npm run pd
 ```
 访问地址：
-[https://kuaipeilian.github.io/blog/](https://kuaipeilian.github.io/blog/)
+[https://syc666.github.io/blog/](https://syc666.github.io/blog/)

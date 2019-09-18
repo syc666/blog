@@ -1,8 +1,8 @@
 module.exports = {
   base: '/blog/',
   dest: 'docs',
-  title:'快陪练技术博客',
-  description:'陪孩子快乐练琴，成就更美好的未来！',
+  title:'syc技术博客',
+  description:'信念和目标，必须永远洋溢在程序员内心！',
   head:[
     ['link', { rel: 'icon', href: 'favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
@@ -11,10 +11,6 @@ module.exports = {
     sidebarDepth: 3,
     navBar: true,
     nav: [
-      {
-        text: '广纳英才',
-        link: '/job/'
-      },
       {
         text: '实战分享',
         items: [
@@ -32,12 +28,6 @@ module.exports = {
           { text: '前端进阶', link: '/fe/vue' },
           { text: 'JS入门', link: '/js/1' },
           { text: '常用网址', link: '/url/fe' },
-        ]
-      },
-      {
-        text: '后端教程',
-        items: [
-          { text: '常用网址', link: '/url/be' },
         ]
       },
     ],
