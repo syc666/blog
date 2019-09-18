@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/blog/',
+  base: '/syc666.github.io/',
   dest: 'docs',
   title:'快陪练技术博客',
   description:'陪孩子快乐练琴，成就更美好的未来！',
