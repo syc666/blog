@@ -1,7 +1,7 @@
 module.exports = {
   base: '/blog/',
   dest: 'docs',
-  title: 'syc技术博客',
+  title: 'syc的技术成长',
   description: '信念和目标，必须永远洋溢在程序员内心！',
   lang: 'zh-CN',
   head: [
