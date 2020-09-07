@@ -3,6 +3,7 @@ module.exports = {
   dest: 'docs',
   title: 'syc技术博客',
   description: '信念和目标，必须永远洋溢在程序员内心！',
+  lang: 'zh-CN',
   head: [
     ['link', { rel: 'icon', href: 'favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
@@ -23,7 +24,7 @@ module.exports = {
         ],
       },
       {
-        text: '大2前端教程',
+        text: '大前端教程',
         items: [
           { text: '前端进阶', link: '/fe/vue' },
           { text: 'JS入门', link: '/js/1' },
